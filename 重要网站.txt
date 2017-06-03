@@ -1,23 +1,23 @@
 http://www.jq22.com/jquery-plugins%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C-1-jq
-ÖÇÄÜÉç¹ÙÍøµÄ¶¯»­Ğ§¹ûÒ²×öµÃºÜ°ôÍø
+æ™ºèƒ½ç¤¾å®˜ç½‘çš„åŠ¨ç”»æ•ˆæœä¹Ÿåšå¾—å¾ˆæ£’ç½‘
 
 http://liuxiaofan.com/
 
-Ö¯ÃÎ  admin£º479308606
+ç»‡æ¢¦  adminï¼š479308606
       password:m13145205566
-      Êı¾İ¿âÃû³Æ£ºmtwebtl
+      æ•°æ®åº“åç§°ï¼šmtwebtl
 
-·²¿Æ admin£ºtl479308606
-     password£ºm13145205566
-ÎÒµÄÍøÕ¾£ºhttp://www.tl479308606.icoc.in/
+å‡¡ç§‘ adminï¼štl479308606
+     passwordï¼šm13145205566
+æˆ‘çš„ç½‘ç«™ï¼šhttp://www.tl479308606.icoc.in/
 
 
 https://github.com/nieweidong/fetool
 
-H5²å¼ş²éÑ¯ÍøÖ·
+H5æ’ä»¶æŸ¥è¯¢ç½‘å€
 cordova.apache.org/plugins/
 
-°Ù¶ÈËÑË÷phonGapÖĞÎÄAPI  ¼ÓÃÜµÄÊ±ºò¿ÉÒÔ¼ÓÃÜÂëÑ¹Ëõ
+ç™¾åº¦æœç´¢phonGapä¸­æ–‡API  åŠ å¯†çš„æ—¶å€™å¯ä»¥åŠ å¯†ç å‹ç¼©
 
 http://www.jq22.com/jquery-info312
 
@@ -25,47 +25,47 @@ http://www.cnblogs.com/mofish/archive/2011/07/18/2109565.html
 
 phonegap.com
 
-http://code.ciaoca.com/ Ç°¶Ë¿ª·¢²Ö¿â
+http://code.ciaoca.com/ å‰ç«¯å¼€å‘ä»“åº“
 
 http://www.miaov.com/2013/miaovideo/miaovideo.html
 
 
-fontawesome.io     Ğ¡Í¼±êÍøÕ¾
+fontawesome.io     å°å›¾æ ‡ç½‘ç«™
 
-https://coding.net/u/tian_lei/p/daling/git ÎÒµÄ´úÂë¹ÜÀíÍøÕ¾  
+https://coding.net/u/tian_lei/p/daling/git æˆ‘çš„ä»£ç ç®¡ç†ç½‘ç«™  
 
-git ÕË»§Ãû£º479308606@qq.com   ÃÜÂë£º5566m1314520;
-
-
-http://www.360doc.com/content/13/0812/09/13476817_306545820.shtml  30¸öcss3Ñ¡ÔñÆ÷
-
-×÷ÓÃÓòÎÊÌâ½²½â http://www.cnblogs.com/skylar/p/3986087.html?plg_nld=1&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_uin=1&plg_nld=1&plg_auth=1&plg_usr=1&plg_vkey=1&plg_dev=1
+git è´¦æˆ·åï¼š479308606@qq.com   å¯†ç ï¼š5566m1314520;
 
 
-iconÉú³ÉÆ÷   http://www.faviconer.co/
+http://www.360doc.com/content/13/0812/09/13476817_306545820.shtml  30ä¸ªcss3é€‰æ‹©å™¨
+
+ä½œç”¨åŸŸé—®é¢˜è®²è§£ http://www.cnblogs.com/skylar/p/3986087.html?plg_nld=1&plg_auth=1&plg_nld=1&plg_dev=1&plg_uin=1&plg_usr=1&plg_vkey=1&plg_nld=1&plg_uin=1&plg_nld=1&plg_auth=1&plg_usr=1&plg_vkey=1&plg_dev=1
 
 
-ÄôÏò¶«git   https://github.com/nieweidong/fetool#app
-
-http://blog.csdn.net/uianqian/article/details/8536471  ³£¼ûHTTP×´Ì¬£¨200£¬304£¬404£¬503µÈ£©
-
-http://www.css88.com/    Ç°¶ËÖØÒªÍøÕ¾
+iconç”Ÿæˆå™¨   http://www.faviconer.co/
 
 
-http://www.ydcss.com/archives/18  gulp½Ì³Ì
+è‚å‘ä¸œgit   https://github.com/nieweidong/fetool#app
 
-http://www.runoob.com/   ²ËÄñ½Ì³Ì
+http://blog.csdn.net/uianqian/article/details/8536471  å¸¸è§HTTPçŠ¶æ€ï¼ˆ200ï¼Œ304ï¼Œ404ï¼Œ503ç­‰ï¼‰
 
-ĞÂÀËÔÆ¶ş¼¶ÓòÃû zhaolingxiao
-
-ÓÃ»§Ãû£ºadmin  ÃÜÂë £ºm13145205566
-ºóÌ¨¹ÜÀí   http://1.zhaolingxiao.applinzi.com/wp-login.php?redirect_to=http%3A%2F%2F1.zhaolingxiao.applinzi.com%2Fwp-admin%2Fpost.php%3Fpost%3D13%26action%3Dedit%26message%3D6&reauth=1
+http://www.css88.com/    å‰ç«¯é‡è¦ç½‘ç«™
 
 
-https://www.sinacloud.com/ucenter.html?from=topnavĞÂÀËÔÆ
+http://www.ydcss.com/archives/18  gulpæ•™ç¨‹
+
+http://www.runoob.com/   èœé¸Ÿæ•™ç¨‹
+
+æ–°æµªäº‘äºŒçº§åŸŸå zhaolingxiao
+
+ç”¨æˆ·åï¼šadmin  å¯†ç  ï¼šm13145205566
+åå°ç®¡ç†   http://1.zhaolingxiao.applinzi.com/wp-login.php?redirect_to=http%3A%2F%2F1.zhaolingxiao.applinzi.com%2Fwp-admin%2Fpost.php%3Fpost%3D13%26action%3Dedit%26message%3D6&reauth=1
 
 
-//==================gitÊ¹ÓÃÃØ¼®=========================
+https://www.sinacloud.com/ucenter.html?from=topnavæ–°æµªäº‘
+
+
+//==================gitä½¿ç”¨ç§˜ç±=========================
 http://blog.csdn.net/wfdtxz/article/details/8632811 
 
 
@@ -90,5 +90,9 @@ http://2.swiper.com.cn/api/basic/2014/1213/17.html
 http://user.qzone.qq.com/3226286599
 
 
-//================Î¢ĞÅ¹«ÖÚÆ½Ì¨¿ª·¢
+//================å¾®ä¿¡å…¬ä¼—å¹³å°å¼€å‘
 http://www.imooc.com/learn/483
+
+vueå­¦ä¹ ç½‘ç«™
+http://hcysun.me/2017/03/03/Vueæºç å­¦ä¹ 
+http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/
